@@ -13,7 +13,7 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://sotayxetnghiem.npduylab.com/content/phap-luat.html</loc>
+        <loc>https://sotayxetnghiem.npduylab.com/content/song-va-lam-viec-theo-phap-luat.html</loc>
         <lastmod>2025-05-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -37,10 +37,29 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://sotayxetnghiem.npduylab.com/content/thay-sach-ban.html</loc>
+        <loc>https://sotayxetnghiem.npduylab.com/content/phi-thuong-bat-phu.html</loc>
         <lastmod>2025-05-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
+     <url>
+        <loc>https://sotayxetnghiem.npduylab.com/content/con-duong-hoc-thuat.html</loc>
+        <lastmod>2025-05-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sotayxetnghiem.npduylab.com/content/ky-nang-hon-bang-cap.html</loc>
+        <lastmod>2025-05-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sotayxetnghiem.npduylab.com/content/de-song-tron-ven.html</loc>
+        <lastmod>2025-05-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
 
 </urlset>
